@@ -25,7 +25,7 @@ const ContactUs = () => {
 
   return (
     <section id="contact-us" className="h-screen flex flex-col justify-center items-center p-4" data-aos="fade-right">
-      <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
+      <h1 className="text-4xl font-bold mb-4">Contact Uss</h1>
       <div className="flex flex-col items-center p-5 border-2  border-black bg-white shadow-2xl rounded-3xl" style={{ height: 'auto', width: '65%' }}>
         <div className="flex flex-col md:flex-row w-auto bg-white text-black rounded-lg">
           {/* Contact Information */}
